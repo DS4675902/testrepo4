@@ -34,3 +34,10 @@ sysinfo.txt
 *.apk
 *.unitypackage
 .DS_Store
+.DS_Store?
+._*
+.Spotlight -V100
+.Transes
+Icon?
+ehthumbs.db
+Thumbs.db
